@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WpTfCjcqEoWwURRjgt1DztnBh7CKBLlosPCNCj1sDF3ygMGKgHT3TquA+mrzLIYsDKf7HiZ1CX6tOUcMaVfHwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Magazin\\Magazin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

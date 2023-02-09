@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\Magazin\obj\Debug\net6.0\Magazin.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Magazin\obj\Debug\net6.0\Magazin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Magazin\obj\Debug\net6.0\Magazin.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Magazin\obj\Debug\net6.0\Magazin.AssemblyInfo.cs
+C:\Users\user\source\repos\Magazin\obj\Debug\net6.0\Magazin.csproj.CoreCompileInputs.cache
